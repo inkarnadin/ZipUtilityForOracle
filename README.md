@@ -1,5 +1,5 @@
 # ZipUtilityForOracle
-Small package of zip/unzip function which used JVM in Oracle stored procedure.
+Small package of zip/unzip function which used java in Oracle stored procedure.
 
 For use:
 1. Copy and compile file ZipUtility.java in Oracle-compatible IDE
